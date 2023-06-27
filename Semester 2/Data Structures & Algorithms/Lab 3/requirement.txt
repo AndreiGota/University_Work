@@ -1,0 +1,1 @@
+ADT Priority Queue –using a SLLAwith (element, priority) pairs ordered based ona relation between the priorities.

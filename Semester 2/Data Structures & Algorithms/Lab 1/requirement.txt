@@ -1,0 +1,3 @@
+ADT Bag – represented as a dynamic array of frequencies.For example, the bag [5, 10, -1, 2, 3, 10, 5, 5, -5] will be represented as [1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 3, 0, 0, 0, 0, 2], built in the following way: 
+-the interval of values [-5, 10] is translated into the interval [0, 16]of positions
+-at  position  0  we  have  the  frequency  of -5  (minimum  element),  on  position  1  we have the frequency of -4, ..., on position 15 we have the frequency of 10 (maximum element).

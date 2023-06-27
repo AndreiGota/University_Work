@@ -1,0 +1,4 @@
+﻿  ShortTest.cpp
+C:\Users\Andrei\source\repos\Lab5DSA\Lab5DSA\Matrix.h(12,2): warning C4091: 'typedef ': ignored on left of 'Information' when no variable is declared
+C:\Users\Andrei\source\repos\Lab5DSA\Lab5DSA\Matrix.h(20,2): warning C4091: 'typedef ': ignored on left of 'BTNode' when no variable is declared
+  Lab5DSA.vcxproj -> C:\Users\Andrei\source\repos\Lab5DSA\x64\Debug\Lab5DSA.exe
