@@ -1,0 +1,10 @@
+1;Which number is the largest;1;15;10;15;easy
+2;Which number is the smallest;-10;-5;2;-10;easy
+3;Which number is prime;4;11;33;11;easy
+4;Which country has the highest population;China;India;Romania;India;medium
+5;Which is the smallest country;SanMarino;Vatican;Maldives;Vatican;medium
+6;The Western Roman Empire fell in;654;546;476;476;hard
+7;Most used language in the world is;Greek;English;Hindi;English;easy
+8;Which youtuber has the most subscribers;Markiplier;MrBeast;PewDiePie;PewDiePie;easy
+9;Most venomous snake is the world is;KingCobra;InlandTaipan;BlackMamba;InlandTaipan;hard
+10;Most visited website in the world;YouTube;Facebook;Twitter;YouTube;easy
