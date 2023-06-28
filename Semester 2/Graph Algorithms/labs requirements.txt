@@ -1,0 +1,7 @@
+Lab 2 - given a directed graph and two vertices, find a lowest length path between them, by using a forward breadth-first search from the starting vertex
+
+Lab 3 - given a graph with costs and two vertices, find a lowest cost walk between the given vertices, or prints a message if there are negative cost cycles accessible from the starting vertex. Use the Ford's algorithm.
+
+Lab 4 - given a graph with costs, do the following:
+a) verify if the corresponding graph is a DAG and perform a topological sorting of the activities using the algorithm based on predecessor counters;
+b) if it is a DAG, find a highest cost path between two given vertices, in O(m+n).
