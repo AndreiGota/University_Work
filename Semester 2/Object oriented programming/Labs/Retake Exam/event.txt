@@ -1,0 +1,8 @@
+Ion|gggior|uiu uiu ui|4,5|3.6.2022
+Marius|Food Fest|mancam burgeri|3,6|9.9.2022
+Ion|Horror Movies|filme horror|6,3|13.9.2022
+Andy|Beach Fest|hai la mare|3,8|1.3.2023
+Marius|Film Fest|hai la film|2,8|4.4.2023
+Andy|Untold|musica faina|5,3|3.5.2023
+Ion|Pizza fest|pizza italiana|1,9|2.6.2023
+Andy|Mountain Fest|hai la munte|7,3|20.6.2023
