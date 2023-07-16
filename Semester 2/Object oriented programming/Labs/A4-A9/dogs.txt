@@ -1,0 +1,3 @@
+Golden Retriever,Murray,8,https://www.megapet.ro/continut/upload/hrana-Golden-Retriever.jpg
+Rottweiler,Thor,6,https://petkeen.com/wp-content/uploads/2021/03/rottweiler-standing_Ricantimages_Shutterstock.jpg
+Chow Chow,Max,3,https://petkeen.com/wp-content/uploads/2021/07/chow-chow-puppy-lying-outdoor.jpg
