@@ -1,0 +1,3 @@
+Vasile,Chirurg
+Ion,psiholog
+Andrei,pediatru

@@ -1,0 +1,6 @@
+Dan,racit,pediatru,Andrei,2023.4.2
+Petru,diabet,chirurg,Vasile,2023.1.10
+Radu,undiagnosed, , ,2023.6.1
+Marius,tuberculoza,chirurg,Alex,2023.2.12
+Erik,scrisofenie,psiholog,Ion,2023.10.10
+Cosmin,undiagnosed, , ,2023.6.1
