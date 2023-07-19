@@ -1,0 +1,22 @@
+[
+	{
+		"artist": "Pink Martini",
+		"title": "Pana cand nu te iubeam",
+		"duration":
+			{
+				"minutes": 4,
+				"second": 40
+			},
+		"source": "https://www.youtube.com/watch?v=admIEqRuPf0"
+	},
+	{
+		"artist": "Hozier",
+		"title": "Take me to church",
+		"duration":
+			{
+				"minutes": 4,
+				"second": 2
+			},
+		"source": "https://www.youtube.com/watch?v=MYSVMgRr6pw&index=30&list=PLb5DqBOB_Gn7CfN91JAl39ZWX4IwqcBBz"
+	}
+]
