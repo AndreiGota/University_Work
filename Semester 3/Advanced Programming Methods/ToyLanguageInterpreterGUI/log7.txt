@@ -1,0 +1,244 @@
+ID: 7
+Execution stack: 
+(Ref(int) v; (New(v, true); (Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(v, true); (Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))))
+Ref(int) v
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(v, true); (Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))))
+Ref(int) v
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(v, true); (Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(v, true); (Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))))
+New(v, true)
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))))
+New(v, true)
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Ref(Ref(int)) a; (New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))
+Ref(Ref(int)) a
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))
+Ref(Ref(int)) a
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(New(a, v); (Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))
+New(a, v)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))
+New(a, v)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+
+ID: 7
+Execution stack: 
+(Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+(Print(ReadHeap(v)); Print(ReadHeap(ReadHeap(a)) + 5))
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+Print(ReadHeap(ReadHeap(a)) + 5)
+Print(ReadHeap(v))
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+Print(ReadHeap(ReadHeap(a)) + 5)
+Print(ReadHeap(v))
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+Print(ReadHeap(ReadHeap(a)) + 5)
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+Print(ReadHeap(ReadHeap(a)) + 5)
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+
+ID: 7
+Execution stack: 
+Symbol table: 
+a -> (1, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+1 -> (0, int)
+
+

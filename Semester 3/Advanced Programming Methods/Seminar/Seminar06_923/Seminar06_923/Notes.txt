@@ -1,0 +1,49 @@
+Comparasion & Comparable & Comparator
+
+Comparable
+
+    1. It's meant for default natural Sorting order
+    2. present in java.lang
+    3. Define only one method compareTo()
+    4. All wrapper classes & String class
+
+Comparator
+
+    1. It's meant for customised Sorting order
+    2. present in java.util
+    3. Define 2 methods compare() and equals()
+    4. Rules based classes
+
+------------------------------------------------------------------
+
+Wildcards (in generics, ? question mark) represents unknown type;
+can be applied in diff situations as the:
+
+    > parameter field or local var
+    > as a returned type to a method
+
+    We don't use wildcards:
+
+        > as type arguments for a generic methods invocation
+        > a generic class instance creation or a super type
+
+Bounded (generic type) vs Wildcards (unknown type)
+
+-> there is so called get and put principle
+
+    There can be 2 types of generic wildcards:
+
+    1. Upper bound wildcard (extends): can reduce/relax the restrictions on a variable
+        Use "extend" keyword like <? extends MyClass> to apply Upper bound wildcard!
+    2. Lower bound wildcards (super): restricts the unknown type to be a specific type or a
+        "super" type of that type
+        Use <? super MyClass> to apply Lower bound wildcards!
+        We can apply either upper bound on a wildcard or a lower bound.
+        We can not apply both of them together.
+
+-> USE 1.Upper bound wildcard: when you only get values out of a structure/collection
+-> USE 2. Lower bound wildcards: when you only put values into a structure/collection
+
+-> Do not use Wildcards if you want to read/write as well, instead use Bounded for that !!!
+
+
